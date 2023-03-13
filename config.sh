@@ -264,4 +264,5 @@ CONFIG_PACKAGE_vsftpd-alt=y
 CONFIG_VSFTPD_USE_UCI_SCRIPTS=y
 CONFIG_PACKAGE_socat=y
 CONFIG_PACKAGE_luci-app-socat=y
+CONFIG_PACKAGE_luci-app-syncdial=y
 EOF
